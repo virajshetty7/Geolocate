@@ -1,1 +1,1 @@
-# Geolocate
+An application that takes in a .data file with a list of locations and uses Google Maps API to to obtain the geodata of the location. It produces a Json file containing the location name and its coordinates. 
